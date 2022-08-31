@@ -30,3 +30,6 @@ Bloggr is a full stack app in the form of a blog website that I made to track my
 
 ![Component Hierarchy](https://user-images.githubusercontent.com/105743483/187589374-44e63bc1-7c2b-4814-b33e-212af723f822.PNG)
 
+## Dependencies
+
+React, Express, MongoDB, Mongoose, Axios, [Lorem Picsum](https://picsum.photos), ReactRouter
