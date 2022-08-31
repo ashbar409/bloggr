@@ -1,4 +1,4 @@
-# [Welcome to Bloggr!](https://bloggr-project.netlify.app)
+# ![Bloggr Logo 25px](https://user-images.githubusercontent.com/105743483/187702311-815e19a2-2180-44ff-aa02-232b040421b2.png) [Welcome to Bloggr!](https://bloggr-project.netlify.app)
 
 Bloggr is a full stack app in the form of a blog website that I made to track my progress in the world of software engineering. 
 
