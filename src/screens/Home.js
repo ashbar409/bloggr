@@ -3,7 +3,7 @@ const Home = (props) => {
       <div className="home">
         <div>
           <h1>
-          Welcome to Bloggr, a blog website!
+          Welcome to Bloggr, my software engineer journey blog!
           </h1>
         </div>
       </div>
