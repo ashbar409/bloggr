@@ -9,9 +9,11 @@ Bloggr is a full stack app in the form of a blog website that I made to track my
 - Home: welcome users to the website
 - Backend: Have a functional back end I develop. [Link to backend](https://bloggr-project.herokuapp.com) so far the endpoints are /blogs and /blogs/:id
 - MERN stack: MongoDB, Express, React, Node.js
+- Full CRUD: Create, Read, Update, Destroy
 
 ## Post MVP
 
 - Particle background
 - Fill posts with some non-placeholder entries
 - Style with some CSS
+- Create a logo
