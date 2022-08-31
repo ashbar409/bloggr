@@ -58,7 +58,7 @@ function Post() {
       }
     }
     fetchData()
-  }, [])
+  }, [comments])
 
   return (
     <div className="post">
