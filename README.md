@@ -32,4 +32,10 @@ Bloggr is a full stack app in the form of a blog website that I made to track my
 
 ## Dependencies
 
-React, Express, MongoDB, Mongoose, Axios, [Lorem Picsum](https://picsum.photos), ReactRouter
+- React Express
+- MongoDB 
+- Mongoose 
+- Axios 
+- [Lorem Picsum](https://picsum.photos) 
+- ReactRouter 
+- Morgan
