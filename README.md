@@ -17,3 +17,11 @@ Bloggr is a full stack app in the form of a blog website that I made to track my
 - Fill posts with some non-placeholder entries
 - Style with some CSS
 - Create a logo
+
+## Wireframes 
+
+![Home Wireframe](https://user-images.githubusercontent.com/105743483/187588669-3ddb1459-528a-4b48-a95c-d1f9826eebdb.PNG)
+
+![Posts Wireframe](https://user-images.githubusercontent.com/105743483/187588678-fca97477-d9e1-44f6-95a1-58c672807799.PNG)
+
+![Post Wireframe](https://user-images.githubusercontent.com/105743483/187588684-56153241-e191-4777-b908-03788636bd46.PNG)
